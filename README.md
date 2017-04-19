@@ -1,4 +1,3 @@
-# PMTL-HW-Node
 ## 要求  
 ```
 1. 請使用 npm 建立 package.json 管理依賴套件。  
