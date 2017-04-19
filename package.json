@@ -1,0 +1,22 @@
+{
+  "name": "node_homework",
+  "version": "1.0.0",
+  "description": "homeworkd of pmtl",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMineCola/PMTL-HW-Node.git"
+  },
+  "author": "MineCola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TMineCola/PMTL-HW-Node/issues"
+  },
+  "homepage": "https://github.com/TMineCola/PMTL-HW-Node#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
